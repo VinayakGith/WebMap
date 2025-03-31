@@ -1,5 +1,5 @@
 // GeoServer WMS URL
-const geoServerUrl = 'http://192.168.98.125:8080/geoserver/wms';
+const geoServerUrl = 'https://192.168.98.125:8080/geoserver/wms';
 
 // Create the map
 const map = new ol.Map({
